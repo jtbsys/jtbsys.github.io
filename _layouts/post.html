@@ -11,3 +11,13 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </section>
+
+<script>
+  (function(d, s) {
+    var js, gjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById('genius-web-annotator')) {return;}
+    js = d.createElement(s); js.id = 'genius-web-annotator';
+    js.src = 'https://genius.com/web-annotator.js';
+    gjs.parentNode.insertBefore(js, gjs);
+  }(document, 'script'));
+</script>
