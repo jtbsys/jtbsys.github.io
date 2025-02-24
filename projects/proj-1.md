@@ -1,9 +1,45 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Oh Valencia'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+You belong to the gang
+And you say you can't break away
+But I'm here with my hands on my heart
+And our families can't agree
+I'm your brother's sworn enemy
+But I'll shout out my love to the stars
+So wait for the stone on your window, your window
+Wait by the car and we'll go, we'll go
+When first we laid eyes
+I swore to no compromise
+'Til I felt my caress on your skin
+Well, how soon we were betrayed
+Your sister gave us away
+And your father came all unhinged
+So wait for the stone on your window, your window
+Wait by the car and we'll go, we'll go
+My O Valencia
+With your blood still warm on the ground
+Valencia
+And I swear to the stars
+I'll burn this whole city down
+All I heard was a shout
+Of your brother calling me out
+And you ran like a fool to my side
+Well, the shot, it hit hard
+And your frame went limp in my arms
+And an oath of love was your dying cry
+So wait for the stone on your window, your window
+Wait by the car and we'll, go we'll go
+But O Valencia
+With your blood still warm on the ground
+Valencia
+And I'll burn this whole city down
+Valencia
+With your blood gettin' cold on the ground
+Valencia
+And I swear to the stars
+I'll burn this whole city down
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+{% include image.html  image="projects/proj-1/thumbnail.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
