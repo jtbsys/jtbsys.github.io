@@ -2,6 +2,8 @@
 layout: post
 title: 'Oh Valencia'
 ---
+<div class="lyrics">
+
 You belong to the gang \
 And you say you can't break away \
 But I'm here with my hands on my heart \
@@ -39,7 +41,8 @@ Valencia \
 With your blood gettin' cold on the ground \
 Valencia \
 And I swear to the stars \
-I'll burn this whole city down \
+I'll burn this whole city down 
 
+</div>
 {% include image.html  image="projects/proj-1/thumbnail.jpg" %}
 
